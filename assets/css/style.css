@@ -1,0 +1,26 @@
+* {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    height: 50vh;
+    display: flex;
+    justify-content: stretch;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+#formul {
+    background-color: white;
+    margin-top: 5em;
+    border-radius: 10px;
+}
+
